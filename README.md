@@ -3,8 +3,6 @@
 Este projeto apresenta uma **interface de login responsiva e moderna**, utilizando **HTML5**, **CSS3** e o conceito visual de **Glassmorphism**,
 ideal para estudos de front-end e práticas de UI/UX.
 
-![Tela de Login](./imagem/imagem.jpg)
-
 ## ✨ Funcionalidades
 
 - 🎨 Interface estilizada com transparência e desfoque
